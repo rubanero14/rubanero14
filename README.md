@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rubanero14
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/rajaruban-rajindram">Rajaruban</a>
 - 👀 I enjoy Coding & Building interesting systems
 - 🌱 I’m currently learning Vue JS
 - 💞️ I’m looking to collaborate on any projects related to Vue or React!
@@ -7,6 +7,7 @@
 - 🌆 GitHub Skyline <a href="https://skyline.github.com/rubanero14/2021">2021<a>
 
 [![Rajaruban's github stats](https://github-readme-stats.vercel.app/api?username=rubanero14&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rubanero14?tab=repositories)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubanero14)](https://github.com/rubanero14?tab=repositories)
   
 <!---
