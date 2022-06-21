@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rubanero14&style=flat&color=lightgrey)
+
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/rajaruban-rajindram">Rajaruban</a>
 - 👀 I enjoy Coding & Building interesting systems
 - 🌱 I’m currently learning Vue JS
