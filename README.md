@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajaruban</h1>
 <h3 align="center">A passionate frontend/fullstack developer from Malaysia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=0e75b6&style=flat" alt="rubanero14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubanero14" alt="rubanero14" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
 - 🔭 I’m currently working on [savajava-frontend-vue](https://rubanero14.github.io/savajava-frontend-vue/)
 
