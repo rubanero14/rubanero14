@@ -10,6 +10,7 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubanero14&layout=compact&count_private=true&theme=vision-friendly-dark&exclude_repo=DataScienceExperiment_Clustering_Regression_WordCountProbablity,PythonAssessment)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubanero14&theme=dark)](https://git.io/streak-stats)
 ![Rajaruban's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubanero14&count_private=true&theme=vision-friendly-dark](https://github-readme-streak-stats.herokuapp.com/?user=rubanero14&theme=nightowl)
 <!---
 rubanero14/rubanero14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
