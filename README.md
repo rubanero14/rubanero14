@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
-- 🔭 I’m currently working on [savajava-frontend-vue](https://savajava.github.io)
+- 🔭 I’m currently working on [SavaJava](https://savajava.github.io)
 
 - 🌱 I’m currently learning **Vue**
 
