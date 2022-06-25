@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Vue or React projects**
 
-- 👨‍💻 All of my projects are available at [https://rajaruban.github.io/portfolio/raj-portfolio.html](https://rajaruban.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rajaruban.github.io)
 
 - 📫 How to reach me **rajarubancr@gmail.com**
 
