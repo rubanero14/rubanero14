@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
-- 🔭 I’m currently working on [savajava-frontend-vue](https://rubanero14.github.io/savajava-frontend-vue/)
+- 🔭 I’m currently working on [savajava-frontend-vue](https://savajava.github.io)
 
 - 🌱 I’m currently learning **Vue**
 
 - 👯 I’m looking to collaborate on **Vue or React projects**
 
-- 👨‍💻 All of my projects are available at [https://rajaruban.github.io/portfolio/raj-portfolio.html](https://rajaruban.github.io/portfolio/raj-portfolio.html)
+- 👨‍💻 All of my projects are available at [https://rajaruban.github.io/portfolio/raj-portfolio.html](https://rajaruban.github.io)
 
 - 📫 How to reach me **rajarubancr@gmail.com**
 
