@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajaruban</h1>
-<h3 align="center">A passionate frontend/fullstack developer from Malaysia</h3>
+<h3 align="center">A passionate Frontend/Fullstack developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
