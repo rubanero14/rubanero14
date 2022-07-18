@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajaruban</h1>
 <h3 align="center">A passionate Frontend/Fullstack developer from Malaysia</h3>
+<h4 align="center">Certified [Vue JS](https://www.udemy.com/certificate/UC-c893f4fa-301b-439f-814e-d04d15c15c29/) Developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
 - 🔭 I’m currently working on [SavaJava](https://savajava.github.io)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Node**
 
 - 👯 I’m looking to collaborate on **Vue or React projects**
 
