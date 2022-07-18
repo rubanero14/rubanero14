@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajaruban</h1>
+<h1 align="center">Hi 👋, I'm Rajaruban Rajindram</h1>
 <h2 align="center">A passionate Frontend/Fullstack developer from Malaysia</h2>
 <h3 align="center">Core Technical Skills Acquired: 
   <a href="https://www.freecodecamp.org/certification/rubanero/javascript-algorithms-and-data-structures">JavaScript</a>, 
