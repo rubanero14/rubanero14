@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajaruban</h1>
 <h2 align="center">A passionate Frontend/Fullstack developer from Malaysia</h2>
-<h3 align="center">:white_check_mark: Certified <a href="https://www.udemy.com/certificate/UC-c893f4fa-301b-439f-814e-d04d15c15c29">Vue 3</a> Developer</h3>
+<h3 align="center">Skills acquired: 
+  <a href="https://www.freecodecamp.org/certification/rubanero/javascript-algorithms-and-data-structures">JavaScript</a>, 
+  <a href="https://www.udemy.com/certificate/UC-c893f4fa-301b-439f-814e-d04d15c15c29">Vue</a>,
+  <a href="https://www.freecodecamp.org/certification/rubanero/responsive-web-design">Responsive Web Design</a>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
