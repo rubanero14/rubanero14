@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 👯 I’m looking to collaborate on **Vue or React projects**
+- 👯 I’m looking to collaborate on **Vue, Node or React projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rajaruban.github.io)
 
