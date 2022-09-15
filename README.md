@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [SavaJava](https://savajava.github.io)
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **React** and **Node**
 
 - 👯 I’m looking to collaborate on **Vue, Node or React projects**
 
