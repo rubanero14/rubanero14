@@ -1,11 +1,28 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h2 align="center">A passionate Frontend/Fullstack developer</h2>
-<h3 align="center">Core Technical Skills Acquired: 
-  <a href="https://www.freecodecamp.org/certification/rubanero/javascript-algorithms-and-data-structures">JavaScript</a>, 
-  <a href="https://www.udemy.com/certificate/UC-c893f4fa-301b-439f-814e-d04d15c15c29">Vue</a>,
-  <a href="https://www.freecodecamp.org/certification/rubanero/responsive-web-design">Responsive Web Design</a>,
-  <a href="https://drive.google.com/file/d/1qJ-smRgk378aTZ5HYoyMcIo8ETRi9OHD/view">Full Stack Web Development</a>
-</h3>
+<h2 align="center">I'm a Frontend Developer with some Backend knowledge.</h2>
+<h3 align="center">Core Technical Skills Acquired:</h3>
+- HTML [Intermediate]
+- CSS [Intermediate]
+- JavaScript [Intermediate]
+- React [Basic]
+- Vue [Intermediate]
+- Responsive Web Design [Intermediate]
+- Bootstrap [Intermediate]
+- Excel [Intermediate]
+- Web Scraping / Web Crawling [Intermediate]
+- Node [Basic]
+- jQuery [Basic]
+- MsSQL [Basic]
+- MongoDB [Basic]
+- Flutter [Basic]
+- React Native [Basic]
+- C# [Basic]
+- Cypress [Basic]
+- Sentry [Basic]
+- Cheerio [Basic]
+- Puppeteer [Basic]
+
+<p>I build User Interfaces, Servers, Databases and Data Scraping and piece them together.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
