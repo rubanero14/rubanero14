@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h2 align="center">A passionate Frontend/Fullstack developer from Malaysia</h2>
+<h2 align="center">A passionate Frontend/Fullstack developer</h2>
 <h3 align="center">Core Technical Skills Acquired: 
   <a href="https://www.freecodecamp.org/certification/rubanero/javascript-algorithms-and-data-structures">JavaScript</a>, 
   <a href="https://www.udemy.com/certificate/UC-c893f4fa-301b-439f-814e-d04d15c15c29">Vue</a>,
