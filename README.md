@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h2 align="center">I'm a Frontend Developer with some Backend knowledge.</h2>
-<h3 align="center">Core Technical Skills Acquired:</h3>
+
+### Core Technical Skills Acquired:
 - HTML [Intermediate]
 - CSS [Intermediate]
 - JavaScript [Intermediate]
