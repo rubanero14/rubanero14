@@ -33,20 +33,19 @@
 
 - 👯 I’m looking to collaborate on **Vue, Node or React projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://rajaruban.github.io)
+<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://rajaruban.github.io) -->
 
-- 📫 How to reach me **rajarubancr@gmail.com**
+<!-- - 📫 How to reach me **rajarubancr@gmail.com** -->
 
-- 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/rajaruban-rajindram/) profile!
+<!-- - 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/rajaruban-rajindram/) profile! -->
 
-- :coffee: Shout me a [coffee](https://paypal.me/rubanero) 
+- :coffee: Shout me a [coffee](https://paypal.me/rubanero)  
 
 - <g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Realtime GitHub Skyline <a href="https://skyline.github.com/rubanero14/2021">2021</a> &amp; <a href="https://skyline.github.com/rubanero14/2022">2022</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rubanero14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@rubanero14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajaruban-rajindram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajaruban-rajindram" height="30" width="40" /></a>
+  <a href="https://codepen.io/rubanero14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/codepen.svg" alt="@rubanero14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
