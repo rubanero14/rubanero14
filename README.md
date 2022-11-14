@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
+<h1 align="center">Hi 👋, Raj here</h1>
 <h2 align="center">I'm a Frontend Developer with some Backend knowledge.</h2>
 
 ### Core Technical Skills Acquired:
