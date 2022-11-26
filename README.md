@@ -27,9 +27,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
-- 🔭 I’m currently working on [SavaJava](https://savajava.github.io)
+- 🔭 My proudest side project is [this](https://savajava.github.io), along manhy others.
 
-- 🌱 I’m currently learning **React** and **Node**
+- 🌱 I’m currently learning **C#**, **.NET**, **React** and **Node**
 
 - 👯 I’m looking to collaborate on **Vue, Node or React projects**
 
