@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
-- 🔭 My proudest side project is [this](https://savajava.github.io), along manhy others.
+- 🔭 My proudest side project is [this](https://savajava.github.io), along with many more.
 
 - 🌱 I’m currently learning **C#**, **.NET**, **React** and **Node**
 
