@@ -59,7 +59,16 @@
 <br/>
 <!--[![Top Langs](https://github-readme-stats-rubanero14.vercel.app/api/top-langs/?username=rubanero14&layout=pie&count_private=true&theme=vision-friendly-dark&exclude_repo=DataScienceExperiment_Clustering_Regression_WordCountProbablity,PythonAssessment&langs_count=6&hide=)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rubanero14 " frameborder="0"></iframe>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rubanero14&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<iframe id="github-iframe" src=""></iframe>
+<script>
+    fetch('https://ionicabizau.github.io/github-profile-languages/api.html?rubanero14')
+        .then(function(response) {
+            return response.json();
+        }).then(function(data) {
+            var iframe = document.getElementById('github-iframe');
+            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
+        });
+</script>
 
