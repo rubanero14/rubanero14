@@ -58,5 +58,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubanero14&theme=dark)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats-rubanero14.vercel.app/api/top-langs/?username=rubanero14&layout=pie&count_private=true&theme=vision-friendly-dark&exclude_repo=DataScienceExperiment_Clustering_Regression_WordCountProbablity,PythonAssessment&langs_count=6&hide=)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubanero14"/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rubanero14&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
