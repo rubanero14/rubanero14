@@ -1,45 +1,13 @@
 <h1 align="center">Hi 👋</h1>
 <h2 align="center">I'm a Frontend Developer with some Backend knowledge.</h2>
 
-### Core Technical Skills Acquired:
-- HTML [Intermediate]
-- CSS [Intermediate]
-- JavaScript [Intermediate]
-- React [Basic]
-- Vue [Intermediate]
-- Responsive Web Design [Intermediate]
-- Bootstrap [Intermediate]
-- Excel [Intermediate]
-- Web Scraping / Web Crawling [Intermediate]
-- Node [Basic]
-- jQuery [Basic]
-- MsSQL [Basic]
-- MongoDB [Basic]
-- Flutter [Basic]
-- React Native [Basic]
-- C# [Basic]
-- Cypress [Basic]
-- Sentry [Basic]
-- Cheerio [Basic]
-- Puppeteer [Basic]
-
-<p>I build User Interfaces, Servers, Databases and Data Scraping and piece them together.</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
-
-- 🔭 My proudest side project so far is [this](https://savajava.github.io), along with many more.
-
-- 🌱 I’m currently learning **C#**, **.NET**, **React** and **Node**
-
-- 👯 I’m looking to collaborate on **Vue, Node or React projects**
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://rajaruban.github.io) -->
 
 <!-- - 📫 How to reach me **rajarubancr@gmail.com** -->
 
 <!-- - 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/rajaruban-rajindram/) profile! -->
-
-- :coffee: Shout me a [coffee](https://paypal.me/rubanero)  
 
 - <g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Realtime GitHub Skyline <a href="https://skyline.github.com/rubanero14/2024">2024</a> &amp; <a href="https://skyline.github.com/rubanero14/2023">2023</a>
 
