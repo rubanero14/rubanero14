@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://rajaruban.github.io) -->
 
-<!-- - 📫 How to reach me **rajarubancr@gmail.com** -->
+<!-- - 📫 How to reach me **rajarubanrajindram@gmail.com** -->
 
 <!-- - 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/rajaruban-rajindram/) profile! -->
 
