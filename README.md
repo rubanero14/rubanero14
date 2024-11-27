@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h2 align="center">I'm a Frontend Developer with some Backend knowledge.</h2>
+<h2 align="center">I'm a Frontend Developer with some backend knowledge.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubanero14&label=Profile%20views&color=lightgrey&style=flat" alt="rubanero14" /> </p>
 
