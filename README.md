@@ -7,7 +7,7 @@
 
 <!-- - 📫 How to reach me **rajarubanrajindram@gmail.com** -->
 
-<!-- - 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/rajaruban-rajindram/) profile! -->
+<!-- - 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/rajaruban-rajindram/) profile -->
 
 - <g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Realtime GitHub Skyline <a href="https://skyline.github.com/rubanero14/2024">2024</a>
 
